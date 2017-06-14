@@ -1,0 +1,30 @@
+{
+  "name": "google-play-services",
+  "version": "1.0.0",
+  "description": "Google Play Services",
+  "cordova": {
+    "id": "google-play-services",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsrichard/google-play-services.git"
+  },
+  "keywords": [
+    "google-play-services"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "nsrichard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsrichard/google-play-services/issues"
+  },
+  "homepage": "https://github.com/nsrichard/google-play-services"
+}
